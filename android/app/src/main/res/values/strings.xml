@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOS App</string>
+    <string name="facebook_app_id">3592522957673974</string>
+    <string name="fb_login_protocol_scheme">fb3592522957673974</string>
+    <string name="facebook_client_token">e2371e661bcfb0938d3814ac5ef8231b</string>
+</resources>
